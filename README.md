@@ -1,6 +1,3 @@
-Beleza 👌 Vou reformular o seu README para que ele foque no **Counting Sort**, mantendo a mesma estrutura e estilo que você já usou. Aqui vai a versão adaptada:
-
----
 
 # Implementação de Métodos de Ordenação em Java
 
